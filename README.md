@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub - completed by Bob Germaine
+# :wave: The Basics of GitHub - Bob Germaine completed this assignment
 
 ## 🤓 Course overview and learning outcomes 
 
